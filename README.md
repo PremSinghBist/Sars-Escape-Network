@@ -8,7 +8,7 @@ This repository contains codebase, links to dataset, and pretrained models for t
 
 ## Dataset
 All the intermediate datasets and final datasets for the training and evaluation are 
-provided at zenodo doi: _______. 
+provided at zenodo doi: https://doi.org/10.5281/zenodo.7142638 
 ## Dependencies
 The major packages of Python and tested versions are provided in env.yml file. 
 All the dependencies can be installed from env.yml file using conda.
