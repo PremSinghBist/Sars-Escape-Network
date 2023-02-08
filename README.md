@@ -1,4 +1,4 @@
-# SARS-ESCAPE NETWORK FOR ESCAPE PREDICTION OF SARS-COV-2; ; Corona virus  
+# SARS-ESCAPE NETWORK FOR ESCAPE PREDICTION OF SARS-COV-2; Corona virus  
 Machine learning-based computational approach to recognize the significant spike protein sequences of severe acute respiratory syndrome coronavirus 2  using sequence data 
 
 
