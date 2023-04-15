@@ -1,6 +1,8 @@
 # Sars-escape network for escape prediction of SARS-COV-2; Corona virus  
 This repository contains codebase, links to dataset, and pretrained models for the paper "SARS-ESCAPE NETWORK FOR ESCAPE PREDICTION OF SARS-COV-2" . SARS-ESCAPE NETWORK is a Machine learning-based computational approach that predicts the escape protein sequences of SARS-COV-2 using sequence data alone.
 
+Reference to Paper (Sars-escape network for escape prediction of SARS-COV-2) : https://doi.org/10.1093/bib/bbad140
+
 ## Dataset
 All the intermediate datasets and final datasets for the training and evaluation are 
 provided at zenodo doi: https://doi.org/10.5281/zenodo.7142638 
