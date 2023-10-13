@@ -48,3 +48,6 @@ Note that escape window size must be of length 20
    python FE_Lang_Embed_Trainer_Full_Dataset.py --mutant your_single_res_mutant 
 ```
 Example: python FE_Lang_Embed_Trainer_Full_Dataset.py --mutant  Q497R
+
+## Citation 
+Prem Singh Bist, Hilal Tayara, Kil To Chong, Sars-escape network for escape prediction of SARS-COV-2, Briefings in Bioinformatics, Volume 24, Issue 3, May 2023, bbad140, https://doi.org/10.1093/bib/bbad140
