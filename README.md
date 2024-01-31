@@ -15,7 +15,9 @@ The experiments were run with Python version 3.7.0 on Ubnunu 18.04.
 ## Experiments
 The results of our experiments can be found in the model/ directory.
 The main model is saved into model/integrated_model directory. The AUCs of respective datasets can 
-be computed using below command line utilities
+be computed using below command line utilities.
+
+Note: Newly retrained model, incorporating augmented sequences from our GAN escape model, is now available within the /pretrain_models/GAN_AUG_SEQ_ESCAPE_MODEL/m2 directory.To learn more about about generating synthetic spike sequences, please visit: https://github.com/PremSinghBist/SarsGAN/
 
 ### Greaney dataset 
 ```bash
